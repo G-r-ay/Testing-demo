@@ -8,7 +8,7 @@
 ### Usage
 
 ```
-streamlit run leaderboad.py
+streamlit run leaderboard.py
 ```
 
 ## Files to purpose
